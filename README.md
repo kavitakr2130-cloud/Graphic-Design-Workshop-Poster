@@ -1,8 +1,17 @@
-Project 3: Graphic Design Workshop Poster
-Goal: Design a high-impact promotional flyer for a technical workshop.
+Thrinax Graphic Design Internship – Promotional Flyer Design
+Body:
+This is a high-impact marketing flyer designed for a Graphic Design Workshop at IIT ISM Dhanbad, created for the Thrinax graphic design internship.
 
-Key Principles: Applied visual hierarchy to prioritize the workshop title and contrast using a vibrant color palette to ensure legibility.
+What's inside
 
-Design Elements: Combined custom illustrations with geometric background textures to create a professional, "high-end" marketing feel.
+Visual Hierarchy: Clear prioritisation of event name, topics, and registration.
 
-Tools: Canva (utilizing vector elements and transparency layers).
+Design Elements: Custom illustrations and subtle geometric background patterns.
+
+Principles: High contrast and balanced layout for professional visual communication.
+
+Tools used: Canva.
+
+Prepared by: Kavita kumari
+
+Intern ID: THX-MAY126-935
